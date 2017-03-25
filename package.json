@@ -1,0 +1,19 @@
+{
+  "name": "node-redis-cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.1",
+    "redis": "^2.7.1",
+    "response-time": "^2.3.2"
+  }
+}
